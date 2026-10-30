@@ -1,0 +1,6 @@
+{
+  "name": "TK Dewi Sartika - Website Resmi Profil & SPMB",
+  "description": "Website profil resmi dan informasi penerimaan murid baru (SPMB) TK Dewi Sartika Kawalu Kota Tasikmalaya. Pendidikan bermutu, ramah anak, berkarakter cerdas dan berakhlak karimah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
